@@ -98,37 +98,22 @@ I'm passionate about cybersecurity and enjoy learning through hands-on practice.
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://github.com/p474nj4y">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
 <a href="https://www.youtube.com/@ppiippoo">
 <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/>
 </a>
 
 </p>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=p474nj4y&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p474nj4y&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p474nj4y&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p474nj4y&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p474nj4y&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=p474nj4y&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
