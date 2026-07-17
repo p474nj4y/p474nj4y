@@ -32,8 +32,12 @@ I'm passionate about cybersecurity and enjoy learning through hands-on practice.
 # 💻 Tech Stack
 
 ### 🛡️ Cybersecurity
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,python,git,github,docker,azure" />
+  <img src="https://cdn.simpleicons.org/owasp" width="48" title="OWASP" />
+  <img src="https://cdn.simpleicons.org/burpsuite" width="48" title="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="48" title="Wireshark" />
 </p>
 
 ---
