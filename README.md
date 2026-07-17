@@ -23,6 +23,8 @@ I'm passionate about cybersecurity and enjoy learning through hands-on practice.
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw" />
 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark" />
+
 
 
 </p>
