@@ -116,6 +116,7 @@ I'm passionate about cybersecurity and enjoy learning through hands-on practice.
 ## 📊 GitHub Stats
 
 <p align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=p474nj4y&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=p474nj4y&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
