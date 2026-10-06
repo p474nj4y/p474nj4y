@@ -112,8 +112,5 @@ I'm passionate about cybersecurity and enjoy learning through hands-on practice.
 
 </p>
 
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=p474nj4y&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
